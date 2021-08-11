@@ -7,7 +7,7 @@ from tqdm import tqdm
 from deepface.DeepFace import build_model
 import cv2
 
-from happiness import preprocess_face
+from oracle.udf.happiness  import preprocess_face
 
 def conver_to_char(i):
     name = ""
