@@ -8,7 +8,7 @@ import tensorflow as tf
 
 from tensorflow.keras.preprocessing import image
 
-from happiness import MultiFaceDetectors
+from oracle.udf.happiness import MultiFaceDetectors
 
 
 def detect_face(img, detector_backend = 'opencv', grayscale = False, enforce_detection = True, align = True):
