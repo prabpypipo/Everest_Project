@@ -2,4 +2,4 @@
 
 Create an oracle to measure happiness in videos by using machine learning.
 
-using this oracle to work with Everest.
+Using this oracle to work with Everest(https://github.com/prabpypipo/everest.git).
